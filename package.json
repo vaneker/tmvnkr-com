@@ -1,0 +1,15 @@
+{
+  "name": "tmvnkr-com",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "repository": "https://github.com/vaneker/tmvnkr-com.git",
+  "author": "Tim Vaneker <timvaneker@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
