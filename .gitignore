@@ -1,2 +1,12 @@
-node_modules
+# next.js build output
 .next
+
+# dotenv environment variables file
+.env
+
+# Dependency directories
+node_modules
+
+# Logs
+yarn-debug.log*
+yarn-error.log*
